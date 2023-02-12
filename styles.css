@@ -1,0 +1,26 @@
+title
+{
+font-size:large;
+font-weight:bold;
+}
+  body {
+  background-color: rgb(230, 173, 213);
+  text-align: center;
+}
+
+.f1 {
+  font-family:'fantasy','papyrus';
+display: block;
+  justify-content: center;
+  color: blueviolet;
+  line-height: 40px;
+  
+  }
+  
+  .f2 {
+   font-family: 'fantasy','papyrus';
+   display: block;
+  justify-content: center;
+   color:chocolate;
+   line-height: 40px
+  }
